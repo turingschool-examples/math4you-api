@@ -1,4 +1,4 @@
-# math4you-api
+# math4you-be
 
 ### Set Up
 1. Clone down this repo and `cd` into the directory
